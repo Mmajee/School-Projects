@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cp213","l":"DoubleLink"},{"p":"cp213","l":"DoubleNode"},{"p":"cp213","l":"DoubleQueue"},{"p":"cp213","l":"Movie"}]

@@ -1,0 +1,36 @@
+/**
+* -------------------------------------------------------
+* Assignment  Testing
+* -------------------------------------------------------
+* @author  Matti Majeed
+* @ID      180685480
+* @Email   maje5480@mylaurier.ca
+* @Version 2019-10-19
+* -------------------------------------------------------
+*/
+-------------------------------------------------------
+Title: Dellamorte Dellamore
+Year: 1994
+Director: Michele Soavi
+Rating: 7.2
+Genre: romance
+Title: Dellamorte Dellamore
+Year: 1994
+Director: Michele Soavi
+Rating: 7.2
+Genre: romance
+Title: Dellamorte Dellamore
+Year: 1994
+Director: Michele Soavi
+Rating: 7.2
+Genre: romance
+Title: Zulu
+Year: 2013
+Director: Jerome Salle
+Rating: 6.7
+Genre: drama
+Title: Zulu
+Year: 2013
+Director: Jerome Salle
+Rating: 6.7
+Genre: drama
