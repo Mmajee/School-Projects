@@ -1,0 +1,53 @@
+/**
+* -------------------------------------------------------
+* Assignment  Testing
+* -------------------------------------------------------
+* @author  Matti Majeed
+* @ID      180685480
+* @Email   maje5480@mylaurier.ca
+* @Version 2019-10-05
+* -------------------------------------------------------
+*/
+-------------------------------------------------------
+Title: Zulu
+Year: 1964
+Director: Cy Endfield
+Rating: 7.8
+Genre: 
+0: science fiction
+1: fantasy
+2: drama
+3: romance
+4: comedy
+5: zombie
+6: action
+7: historical
+8: horor
+9: war
+
+9
+
+Title: Zulu
+Year: 1964
+Director: Cy Endfield
+Rating: 7.8
+Genre: war
+
+Title: Dellamorte Dellamore
+Year: 1994
+Director: Michele Soavi
+Rating: 7.2
+Genre: romance
+
+Title: Zulu
+Year: 2013
+Director: Jerome Salle
+Rating: 6.7
+Genre: drama
+
+0
+
+49
+
+-30
+
