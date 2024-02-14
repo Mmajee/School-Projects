@@ -1,0 +1,10 @@
+[forename] [surname]
+[street]
+[city]
+
+Dear [forename]:
+
+    As a fellow citizen of [city], you and all your neighbours 
+on [street] are invited to a celebration this Saturday at 
+[city]'s Central Park. Bring beer and food!
+--
